@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">btl</string>
+    <string name="todo_title">%1$s: %2$s</string>
+</resources>

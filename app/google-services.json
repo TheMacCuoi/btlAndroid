@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "141681959547",
+    "firebase_url": "https://doino-1cfac-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "doino-1cfac",
+    "storage_bucket": "doino-1cfac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141681959547:android:c8121027323b96ad3638de",
+        "android_client_info": {
+          "package_name": "com.example.btl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141681959547-pf7msh9j2esqf7onnh522imo0ocrsfvi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.btl",
+            "certificate_hash": "7a0a88148c7d8173004ef9188bf61f06d7831fbc"
+          }
+        },
+        {
+          "client_id": "141681959547-tkqs25evsobdletl2c1e95ukffotq26h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL_d3BHTfKMg_1WcIsSv4I6FuZciu7tD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141681959547-tkqs25evsobdletl2c1e95ukffotq26h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
